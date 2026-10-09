@@ -1,0 +1,18 @@
+9827a09 Merge pull request #1 from SyMYegor/feature-style
+49546d7 Add style PR documentation
+d4ede22 Add cherry-pick demonstration
+be672f5 Prepare selected commit transfer
+1d2616d Asynchronous fetch for remote changes
+c0a4abf Add remote note Sadkovyi
+9e95179 Demonstrate Undo Last Commit
+da67e37 Revert added paragraph
+c5e33bb Add paragraph for revert
+4feb3f1 Merge branch 'feature-docs'
+5579f34 Resolve merge conflict
+3aa55b2 Update heading text on main
+27eec87 Document GUI Git workflow
+d2afa0f Add setup documentation
+5819f78 Add initial documentation
+cce9e8b Change heading text
+39ad6d1 Add blue CSS style to heading
+33cd92c Add initial HTML file
