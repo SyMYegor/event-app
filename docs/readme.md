@@ -50,3 +50,7 @@ It creates a new commit without merging the entire source branch.
 Manual heading conflict resolution delays integration.
 Short branches, regular updates and splitting work across files reduce
 the risk. HTML validation helps detect errors before merging.
+
+## Selected Commit Transfer
+The cherry-note documentation is copied as one selected commit.
+The source branch remains available for comparison.
