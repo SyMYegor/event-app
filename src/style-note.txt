@@ -1,0 +1,3 @@
+LR4 2.2: Style branch demonstration
+Author: Yegor Sadkovyi, group 491.
+The heading is blue.
